@@ -1,0 +1,15 @@
+{
+  "name": "kira-tech-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram KIRA TECH - Toutes commandes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
