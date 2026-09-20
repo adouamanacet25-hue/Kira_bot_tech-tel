@@ -1,403 +1,541 @@
-Nom : ▉ 亗 |KIRA亗 T|ECH 亗 |BOT🌹▉
-
-Auteur : ⫸ »͜͡𝐌𝐫 KIRA tech 
-
-& »͜͡𝐌𝐫 EGO TECH 
-
-Description : This is a bot Telegram help the user WhatsApp by the commands( améliore la phrases ) 
-
-Répartition 
-
-1 commande télégram 
-
-Commands du bot 
-
-commands télégram 
-
-* Commands simple 
-
-Menu
-Ping 
-Date
-Section 
-Auteur 
- 
-* commands admin 
-
-Promote
-Kick
-Mute 
-
-* commands  tool ban 
-
-Support ban : text le message là 
-
-The link of tool ban : https://adouamanacet25-hue.github.io/Dark-purge/
-
-* command blague
-
- Joke : Mets 10 blague alleatoire
-Image du bot 
-
-
-* link 
-
-Channel link tel  :  https://t.me/+mQ3aQpCsEqI0YmY0
-
-Channel link wa : https://whatsapp.com/channel/0029Vb7WJzp84OmBD0fEEJ2X
-
-Text auteur to tel : https://t.me/+242061167625
-
-* song 
-
-.song  death note  
-
-
-* search 
-
-.google pictures ( Naruto) .video 
-
-
-
-NB : 
-
-1• à chaque fois qu’un membre par où rejoins un groupe où se trouve le bot 
-
-un message s’affiche 
-
-
-Lorsqu’il Part
-
-L’image du bot s’affiche 
-
-<a href="https://ibb.co/6cmPS6zv"><img src="https://i.ibb.co/Y43kSvmD/EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6.jpg" alt="EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6" border="0"></a>
-
-═══════════════════════════════════════════
-   ✦  GOOD BYE IN GROUPES ✦
-═══════════════════════════════════════════
-
-- NAME: @….( menbres) 
-
-───────────────────────────────────────────
-  Nom du groupe 
-───────────────────────────────────────────
-Description du groupe 
-───────────────────────────────────────────
-  JOIN MY CHANNEL
-──────────────────────────────────────────—— > Rejoind ma chaîne et Connecte toi aussi ton bot 
-
-https://whatsapp.com/channel/0029Vb7WJzp84OmBD0fEEJ2X
-
-———————télégram 
-
-🔗 https://t.me/+mQ3aQpCsEqI0YmY0
-
-───────────────────────────────────────────
-
-Nombre de menbres 
-───────────────────────────────────────────
-
-> power by kira & EGo  tech 
-═══════════════════════════════════════════
-
-
-Si un menbres rejoint 
-
-<a href="https://ibb.co/6cmPS6zv"><img src="https://i.ibb.co/Y43kSvmD/EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6.jpg" alt="EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6" border="0"></a>
-
-
-═══════════════════════════════════════════
-   ✦  WELCOME IN GROUPES ✦
-═══════════════════════════════════════════
-
-- NAME: @….(menbres)
-
-───────────────────────────────────────────
-  Nom du groupe 
-───────────────────────────────────────────
-Description du groupe 
-───────────────────────────────────────────
-  JOIN MY CHANNEL
-──────────────────────────────────────────—— wa
-
-‎Voici une invitation à suivre la chaîne ⫸ »͜͡𝐌𝐫 KIRA_TECH ⫷ sur WhatsApp : https://whatsapp.com/channel/0029Vb7WJzp84OmBD0fEEJ2X
-
-———————tel
-🔗 https://t.me/+mQ3aQpCsEqI0YmY0
-
-───────────────────────────────────────────
-
-Nombre de menbres 
-───────────────────────────────────────────
-
-> power by kira tech 
-═══════════════════════════════════════════
-
- 
-Connect the bot join my channel Avec le lien de ma chaîne WhatsApp 
-
- 
-
-Commands télégram 
-/start
-/menu 
-/help
-/pair 
-/
-
-
-1- /start
-
-
-Crée la commande /start ça envoie directement ce message sur télégram 
-
-<a href="https://ibb.co/6cmPS6zv"><img src="https://i.ibb.co/Y43kSvmD/EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6.jpg" alt="EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6" border="0"></a>
-
-═══════════════════════════════════════════
-   ✦  WELCOME IN BOT TELEGRAM ✦
-═══════════════════════════════════════════
-
-✅ NAME      ▉ 亗 |KIRA亗 T|ECH 亗 |BOT🌹▉
-
-👑 CREATOR   : MR KiRA & EGO 🌹
-
-
-
-───────────────────────────────────────────
-  DESCRIPTION
-───────────────────────────────────────────
-It's a Telegram bot that connects to
-a WhatsApp account for use many commands 
-
-───────────────────────────────────────────
-  JOIN MY CHANNEL
-─────────────────────────────────────────── 
-
-🔗 https://t.me/+mQ3aQpCsEqI0YmY0
-
-───────────────────────────────────────────
-  EXAMPLE COMMAND
-───────────────────────────────────────────
-⚡ Type : /pair 242...  (to use the  bot) ✅
-
-═══════════════════════════════════════════
-
-c’est sûr télégram on mets les lien télégram 
-
-2-  /help 
-
-
-
-Dit comment utiliser toutes les commandes 
-
-3 /pair 
-
-
-Connecte le bot télégram à WhatsApp 
-
-Avec jumelage code paring 
-
-Structure 
-
-User envoie la demande de paring WhatsApp au bot tel —— qui le renvoie au serveur pour excuter Bailey node.js paring code ( le paring code de WhatsApp web )…. Et renvoie vers l’utilisateur 
-
-
-Message 
-
-Demande de pairing code….. 🔄
-Veuillez patienter 🙏
-
-|  Mr kira tech🌹
-
-
-
-Message que reçoit 
-
-<a href="https://ibb.co/6cmPS6zv"><img src="https://i.ibb.co/Y43kSvmD/EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6.jpg" alt="EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6" border="0"></a>
-
-Img du bot 
-
-Name : ▉ 亗 |KIRA亗 T|ECH 亗 |BOT🌹▉
-
-Demande de paring au …… ( numero de la demande) 
-
-___________||||||||||||||||||||||||||||||__________
-
-           ( code paring ici à copie coller ) 🔑
-
-________||||||||||||||||||||||||||||||||||||____________
-
-Merci aux killers 🌹pour ton bot 🤖 
-
-( explique comment connecté pour iPhone et androïde) 
-
-Si c’est pas connecté 
- 
-
-Échec ❌ 
-Désolé Le bot n’a pas été connecté taper /pair pour reconnecter le bot 🥀
-
-
-Une fois connecté au compte whatsapp 
-
-
-Image du bot 
-
-* Succès 🎉🎉🎉🎉
-* Bot is connect ✅
-* Statut : open ✅
-* Date actuelle de la connexion (hh/min/jj/mm/aa)
-
-Maintenant utiliser les commandes du bot
-Tape /menu sur whatsapp pour voir les commandes 
-
-Merci au killer duo 
-
-4/ menu 
-
-
-Image du bot 🤖 
-
-<a href="https://ibb.co/6cmPS6zv"><img src="https://i.ibb.co/Y43kSvmD/EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6.jpg" alt="EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6" border="0"></a>
-
-▉ 亗 |KIRA亗 T|ECH 亗 |BOT🌹▉
+/**
+ * ▉ 亗 |KIRA亗 T|ECH 亗 |BOT🌹▉
+ * Bot Telegram (connexion / pairing code) + Bot WhatsApp (Baileys)
+ * Auteur du bot : Mr KIRA tech & Mr EGO TECH
+ *
+ * IMPORTANT (à lire avant de déployer) :
+ * - Sans disque persistant (Render free / sans disk add-on), le dossier
+ *   de session WhatsApp (./sessions/<id>) est perdu à chaque redémarrage
+ *   ou mise en veille du service. C'est normal et attendu : ce code sert
+ *   à générer un pairing code et tester les commandes tant que le process
+ *   tourne. Pour une session qui survit aux redémarrages, il faut un
+ *   disque persistant (ou un stockage externe type Mongo/Postgres/S3
+ *   pour les credentials Baileys).
+ * - Un seul pairing code actif par demande, valable 5 minutes. Passé ce
+ *   délai sans connexion réussie, la session est fermée et il faut
+ *   retaper /pair.
+ */
+
+const express = require('express');
+const TelegramBot = require('node-telegram-bot-api');
+const axios = require('axios');
+const pino = require('pino');
+const fs = require('fs');
+const path = require('path');
+
+const {
+  default: makeWASocket,
+  useMultiFileAuthState,
+  DisconnectReason,
+  fetchLatestBaileysVersion,
+} = require('@whiskeysockets/baileys');
+
+// ============================================================
+// CONFIG
+// ============================================================
+const CONFIG = {
+  botName: '▉ 亗 |KIRA亗 T|ECH 亗 |BOT🌹▉',
+  author: 'Mr KIRA tech & Mr EGO TECH',
+  prefix: '.',
+  telegramToken: process.env.TELEGRAM_BOT_TOKEN || 'PUT_YOUR_TELEGRAM_TOKEN_HERE',
+  telegramChannel: 'https://t.me/+mQ3aQpCsEqI0YmY0',
+  telegramGroup: 'https://t.me/+Z-P_xjUgJjU0MjM0',
+  whatsappChannel: 'https://whatsapp.com/channel/0029Vb7WJzp84OmBD0fEEJ2X',
+  whatsappGroup: 'https://chat.whatsapp.com/Jeiy7Bty56p8oMs5hJrDWJ?s=cl&p=i&mlu=0&ilr=4',
+  authorTelegramContact: 'https://t.me/+242061167625',
+  banToolLink: 'https://adouamanacet25-hue.github.io/Dark-purge/',
+  botImageUrl: 'https://i.ibb.co/Y43kSvmD/EF5-C463-D-6-AA4-4078-8-CB7-68-D8-F3-AE14-C6.jpg',
+  repoLink: 'https://github.com/',
+  pairingCodeValidityMs: 5 * 60 * 1000, // 5 minutes
+  port: process.env.PORT || 3000,
+};
+
+if (CONFIG.telegramToken === 'PUT_YOUR_TELEGRAM_TOKEN_HERE') {
+  console.warn('⚠️  Aucun TELEGRAM_BOT_TOKEN défini en variable d\'environnement. ' +
+    'Pour la sécurité, définis-le dans les variables d\'environnement Render ' +
+    'plutôt que de le laisser en dur dans le code.');
+}
+
+// ============================================================
+// SERVEUR EXPRESS (keep-alive pour Render)
+// ============================================================
+const app = express();
+app.get('/', (req, res) => res.send(`${CONFIG.botName} est en ligne ✅`));
+app.listen(CONFIG.port, () => console.log(`🌐 Serveur HTTP prêt sur le port ${CONFIG.port}`));
+
+// ============================================================
+// BOT TELEGRAM
+// ============================================================
+const tgBot = new TelegramBot(CONFIG.telegramToken, { polling: true });
+
+// sessions[chatId] = { sock, number, folder, pairTimer, connected, groupSettings }
+const sessions = {};
+
+function sessionsFolder(chatId) {
+  return path.join(__dirname, 'sessions', String(chatId));
+}
+
+function clearSession(chatId) {
+  const s = sessions[chatId];
+  if (!s) return;
+  if (s.pairTimer) clearTimeout(s.pairTimer);
+  try {
+    if (s.sock) s.sock.end(undefined);
+  } catch (e) {}
+  delete sessions[chatId];
+}
+
+// ---------- /start ----------
+tgBot.onText(/^\/start/, (msg) => {
+  const chatId = msg.chat.id;
+  const caption =
+    `═══════════════════════════════\n` +
+    `   ✦  WELCOME IN BOT TELEGRAM ✦\n` +
+    `═══════════════════════════════\n\n` +
+    `✅ NAME    : ${CONFIG.botName}\n` +
+    `👑 CREATOR : Mr KIRA & EGO 🌹\n\n` +
+    `───────────────────────────────\n` +
+    `  DESCRIPTION\n` +
+    `───────────────────────────────\n` +
+    `Bot Telegram qui connecte un compte WhatsApp\n` +
+    `(pairing code) pour utiliser de nombreuses commandes.\n\n` +
+    `───────────────────────────────\n` +
+    `  EXEMPLE DE COMMANDE\n` +
+    `───────────────────────────────\n` +
+    `⚡ Tape : /pair 242xxxxxxxxx  (avec ton indicatif pays, sans +) ✅\n` +
+    `═══════════════════════════════`;
+
+  const keyboard = {
+    inline_keyboard: [
+      [{ text: '📢 Rejoindre la chaîne Telegram', url: CONFIG.telegramChannel }],
+      [{ text: '👥 Rejoindre le groupe Telegram', url: CONFIG.telegramGroup }],
+      [{ text: '💬 Rejoindre la chaîne WhatsApp', url: CONFIG.whatsappChannel }],
+      [{ text: '👥 Rejoindre le groupe WhatsApp', url: CONFIG.whatsappGroup }],
+    ],
+  };
+
+  tgBot.sendPhoto(chatId, CONFIG.botImageUrl, { caption, reply_markup: keyboard })
+    .catch(() => tgBot.sendMessage(chatId, caption, { reply_markup: keyboard }));
+});
+
+// ---------- /help ----------
+tgBot.onText(/^\/help/, (msg) => {
+  const text =
+    `📖 *Aide — ${CONFIG.botName}*\n\n` +
+    `/start — présentation du bot\n` +
+    `/pair <numéro> — connecte ton WhatsApp (ex: /pair 242061234567)\n` +
+    `/menu — affiche le menu des commandes WhatsApp\n` +
+    `/help — cette aide\n\n` +
+    `Une fois connecté sur WhatsApp, tape *${CONFIG.prefix}menu* pour voir\n` +
+    `toutes les commandes disponibles sur WhatsApp.`;
+  tgBot.sendMessage(msg.chat.id, text, { parse_mode: 'Markdown' });
+});
+
+// ---------- /menu ----------
+tgBot.onText(/^\/menu/, (msg) => {
+  tgBot.sendMessage(msg.chat.id, buildWaMenuText(), { parse_mode: 'Markdown' });
+});
+
+// ---------- /pair ----------
+tgBot.onText(/^\/pair(?:\s+(\S+))?/, async (msg, match) => {
+  const chatId = msg.chat.id;
+  const number = (match[1] || '').replace(/[^0-9]/g, '');
+
+  if (!number) {
+    return tgBot.sendMessage(chatId, 'Utilisation : /pair 242061234567 (indicatif pays + numéro, sans +, sans espace)');
+  }
+
+  if (sessions[chatId] && sessions[chatId].connected) {
+    return tgBot.sendMessage(chatId, 'Ton WhatsApp est déjà connecté ✅. Tape /menu pour voir les commandes.');
+  }
+
+  await tgBot.sendMessage(chatId, 'Demande de pairing code….. 🔄\nVeuillez patienter 🙏\n\n|  Mr kira tech🌹');
+
+  try {
+    await startPairing(chatId, number);
+  } catch (err) {
+    console.error('Erreur pairing:', err);
+    tgBot.sendMessage(chatId, '❌ Échec ❌\nDésolé, le bot n\'a pas pu générer de pairing code. Tape /pair pour réessayer 🥀');
+  }
+});
+
+async function startPairing(chatId, number) {
+  // Session précédente : on la ferme proprement avant d'en recréer une.
+  clearSession(chatId);
+
+  const folder = sessionsFolder(chatId);
+  fs.rmSync(folder, { recursive: true, force: true });
+  fs.mkdirSync(folder, { recursive: true });
+
+  const { state, saveCreds } = await useMultiFileAuthState(folder);
+  const { version } = await fetchLatestBaileysVersion();
+
+  const sock = makeWASocket({
+    version,
+    auth: state,
+    printQRInTerminal: false,
+    logger: pino({ level: 'silent' }),
+    browser: ['KIRA TECH BOT', 'Chrome', '1.0.0'],
+  });
+
+  sessions[chatId] = {
+    sock,
+    number,
+    folder,
+    connected: false,
+    settings: { antilink: false, welcome: true, goodbye: true },
+  };
+
+  sock.ev.on('creds.update', saveCreds);
+
+  // Un seul code de pairing par demande, request juste après l'ouverture du socket
+  if (!sock.authState.creds.registered) {
+    // petit délai pour laisser le socket s'initialiser avant de demander le code
+    setTimeout(async () => {
+      try {
+        const code = await sock.requestPairingCode(number);
+        const formatted = code.match(/.{1,4}/g).join('-');
+
+        const captionMsg =
+          `Name : ${CONFIG.botName}\n\n` +
+          `Demande de pairing au ${number}\n\n` +
+          `__________________________________\n\n` +
+          `        ${formatted}   🔑\n\n` +
+          `__________________________________\n\n` +
+          `Merci aux killers 🌹 pour ton bot 🤖\n\n` +
+          `📱 *Comment connecter :*\n` +
+          `Android : WhatsApp > Paramètres > Appareils connectés > Connecter un appareil > Connecter avec le numéro de téléphone\n` +
+          `iPhone : WhatsApp > Réglages > Appareils connectés > Connecter un appareil > Connecter avec le numéro de téléphone\n\n` +
+          `⏳ Ce code expire dans 5 minutes.`;
+
+        tgBot.sendPhoto(chatId, CONFIG.botImageUrl, { caption: captionMsg })
+          .catch(() => tgBot.sendMessage(chatId, captionMsg));
+      } catch (err) {
+        console.error('Erreur requestPairingCode:', err);
+        tgBot.sendMessage(chatId, '❌ Échec ❌\nDésolé, le bot n\'a pas pu générer de pairing code. Tape /pair pour réessayer 🥀');
+        clearSession(chatId);
+      }
+    }, 1500);
+
+    // Le code doit être utilisé sous 5 minutes, sinon on ferme la session.
+    sessions[chatId].pairTimer = setTimeout(() => {
+      const s = sessions[chatId];
+      if (s && !s.connected) {
+        tgBot.sendMessage(chatId, '❌ Échec ❌\nLe pairing code a expiré (5 min). Tape /pair pour reconnecter le bot 🥀');
+        clearSession(chatId);
+      }
+    }, CONFIG.pairingCodeValidityMs);
+  }
+
+  sock.ev.on('connection.update', (update) => {
+    const { connection, lastDisconnect } = update;
+
+    if (connection === 'open') {
+      const s = sessions[chatId];
+      if (s) {
+        s.connected = true;
+        if (s.pairTimer) clearTimeout(s.pairTimer);
+      }
+      const now = new Date();
+      const dateStr = now.toLocaleString('fr-FR');
+      const successMsg =
+        `🎉🎉🎉🎉 Succès 🎉🎉🎉🎉\n` +
+        `✅ Bot is connect ✅\n` +
+        `📶 Statut : open ✅\n` +
+        `🕒 Date de connexion : ${dateStr}\n\n` +
+        `Tape *.menu* directement sur WhatsApp pour voir les commandes.\n\n` +
+        `Merci au killer duo 🌹`;
+      tgBot.sendPhoto(chatId, CONFIG.botImageUrl, { caption: successMsg, parse_mode: 'Markdown' })
+        .catch(() => tgBot.sendMessage(chatId, successMsg, { parse_mode: 'Markdown' }));
+    }
+
+    if (connection === 'close') {
+      const statusCode = lastDisconnect?.error?.output?.statusCode;
+      const shouldReconnect = statusCode !== DisconnectReason.loggedOut;
+      const s = sessions[chatId];
+      if (s && s.connected && shouldReconnect) {
+        // reconnexion silencieuse en cas de coupure réseau
+        tgBot.sendMessage(chatId, '🔄 Connexion WhatsApp perdue, tentative de reconnexion...');
+        startPairing(chatId, s.number).catch(() => {});
+      } else {
+        if (s) {
+          tgBot.sendMessage(chatId, '❌ Session WhatsApp fermée. Tape /pair pour reconnecter le bot 🥀');
+        }
+        clearSession(chatId);
+      }
+    }
+  });
+
+  sock.ev.on('messages.upsert', async ({ messages, type }) => {
+    if (type !== 'notify') return;
+    const m = messages[0];
+    if (!m.message || m.key.fromMe) return;
+    try {
+      await handleWhatsAppMessage(sock, m, sessions[chatId]);
+    } catch (err) {
+      console.error('Erreur traitement message WA:', err);
+    }
+  });
+
+  sock.ev.on('group-participants.update', async (event) => {
+    try {
+      await handleGroupParticipantsUpdate(sock, event, sessions[chatId]);
+    } catch (err) {
+      console.error('Erreur group-participants.update:', err);
+    }
+  });
+
+  return sock;
+}
+
+// ============================================================
+// MENU WHATSAPP
+// ============================================================
+function buildWaMenuText() {
+  return (
+`${CONFIG.botName}
 ▰▰▰▰▰▰▰▰▰▰
-➠ Auteur :  Mr kira tech 🌹
-➠ Prefix: *[ . ]*
-➠ Total Cmds: *100*
-
+➠ Auteur : Mr kira tech 🌹
+➠ Préfixe : *[ ${CONFIG.prefix} ]*
 ______________________
 
-> ╢ GROUP ♰
+> ╢ GROUPE ♰
 ╭▰▰▰▰▰▰▰◈
-┆❏ .antilink ( supprime automatiquement les lien éviter à ceux qui ne sont pas admin et affiche ce message :  interdiction de lien ⚠️
-┆❏ .goodbye ( message de goodbye là)
-┆❏ .ppgroup ( affiche la pp du groupe )
-┆❏ .groupinfo ( affiche la description du groupe)
-┆❏ .groupname ( donne le nom du groupe 
-┆❏ .kick ( expulse le numéro du groupe ex: .kick 245… )
-┆❏ .purge
-┆❏ .link envoie le lien Du groupe de la chaîne télégram et WhatsApp de façon join my channel…
-┆❏ .listadmin ( list tout les admin 
-┆❏ .mute   ( tu sais) 
-┆❏ .promote  ( tu sais) 
-┆❏ .purge  ( tu sais) 
-┆❏ .tag  ( tu sais) 
-┆❏ . Tagall  ( tu sais) 
-┆❏ .unmute  ( tu sais) 
-┆❏ .welcome ( tu sais) 
-╰▰▰▰▰▰▰▰◈. Image à utiliser 
-
-<a href="https://ibb.co/HLWK7HxR"><img src="https://i.ibb.co/DPx14R8m/707744-F1-8668-49-A1-8-ED9-6353-D20-B987-A.jpg" alt="707744F1 8668 49A1 8ED9 6353D20B987A" border="0"></a>
-
-
+┆❏ ${CONFIG.prefix}antilink
+┆❏ ${CONFIG.prefix}welcome on/off
+┆❏ ${CONFIG.prefix}goodbye on/off
+┆❏ ${CONFIG.prefix}ppgroup
+┆❏ ${CONFIG.prefix}groupinfo
+┆❏ ${CONFIG.prefix}groupname <nom>
+┆❏ ${CONFIG.prefix}kick @membre
+┆❏ ${CONFIG.prefix}promote @membre
+┆❏ ${CONFIG.prefix}mute
+┆❏ ${CONFIG.prefix}unmute
+┆❏ ${CONFIG.prefix}listadmin
+┆❏ ${CONFIG.prefix}tag <texte>
+┆❏ ${CONFIG.prefix}tagall
+┆❏ ${CONFIG.prefix}link
+╰▰▰▰▰▰▰▰◈
 
 > ╢ FUN ♰
 ╭▰▰▰▰▰▰▰◈
-┆❏ .blague. 
-┆❏ .character
-┆❏ .compliment  
-┆❏ .dare
-┆❏ .fact
-┆❏ .flirt
-┆❏ .gif
-┆❏ .goodnight
-┆❏ .meme
-┆❏ .news
-┆❏ .quote
-┆❏ .roseday
-┆❏ .ship
-┆❏ .stupid
-┆❏ .trivia
-┆❏ .truth
-┆❏ .valentine
-╰▰▰▰▰▰▰▰◈ Nb tu sais quoi faire  ( tu sais) 
+┆❏ ${CONFIG.prefix}blague
+┆❏ ${CONFIG.prefix}compliment
+┆❏ ${CONFIG.prefix}dare
+┆❏ ${CONFIG.prefix}fact
+┆❏ ${CONFIG.prefix}flirt
+┆❏ ${CONFIG.prefix}goodnight
+┆❏ ${CONFIG.prefix}quote
+┆❏ ${CONFIG.prefix}roseday
+┆❏ ${CONFIG.prefix}ship @a @b
+┆❏ ${CONFIG.prefix}truth
+┆❏ ${CONFIG.prefix}valentine
+╰▰▰▰▰▰▰▰◈
 
 > ╢ GENERAL ♰
 ╭▰▰▰▰▰▰▰◈
-┆❏ .alive
-┆❏ .antidelete
-┆❏ .channelid
-┆❏ .fancy
-┆❏ .gpstatus
-┆❏ .menu
-┆❏ .owner
-┆❏ .pair
-┆❏ .ping
-┆❏ .repo
-┆❏ .voice
+┆❏ ${CONFIG.prefix}alive
+┆❏ ${CONFIG.prefix}channelid
+┆❏ ${CONFIG.prefix}fancy <texte>
+┆❏ ${CONFIG.prefix}menu
+┆❏ ${CONFIG.prefix}owner
+┆❏ ${CONFIG.prefix}ping
+┆❏ ${CONFIG.prefix}repo
 ╰▰▰▰▰▰▰▰◈
 
 > ╢ TOOLS ♰
 ╭▰▰▰▰▰▰▰◈
-┆❏ .fakechat
-┆❏ .support ban
-┆❏ .check ban 
-┆❏ .ban bot 
+┆❏ ${CONFIG.prefix}support ban
 ╰▰▰▰▰▰▰▰◈
 
-Tu sais quoi faire 
+> power by kira & EGo tech 🌹`
+  );
+}
 
+// ============================================================
+// DONNÉES POUR LES COMMANDES FUN (secours hors-ligne si l'API échoue)
+// ============================================================
+const BLAGUES = [
+  "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ? Parce que sinon ils tombent dans le bateau !",
+  "Qu'est-ce qu'un crocodile qui surveille la pharmacie ? Un pharma-cocodile.",
+  "Pourquoi les poissons détestent l'ordinateur ? Ils ont peur du net.",
+  "Que dit un mur à un autre mur ? On se rejoint au coin.",
+  "Quel est le sport le plus silencieux ? Le para-chute.",
+];
+const COMPLIMENTS = [
+  "Tu illumines chaque groupe où tu passes ✨",
+  "Ton énergie est contagieuse 🔥",
+  "Tu as un sourire qui change la journée de quelqu'un 😄",
+];
+const FACTS = [
+  "Le miel ne se périme jamais s'il est bien conservé.",
+  "Les octopus ont trois cœurs.",
+  "Le mont Everest grandit d'environ 4 mm chaque année.",
+];
+const QUOTES = [
+  "« La discipline est le pont entre les objectifs et les résultats. »",
+  "« Ce n'est pas parce que les choses sont difficiles qu'on n'ose pas, c'est parce qu'on n'ose pas qu'elles sont difficiles. »",
+];
 
-Ça doit réagir au message avec des emoji différents pour chaque commande 
+function fancyText(text) {
+  const map = {
+    a: 'ᴀ', b: 'ʙ', c: 'ᴄ', d: 'ᴅ', e: 'ᴇ', f: 'ꜰ', g: 'ɢ', h: 'ʜ', i: 'ɪ',
+    j: 'ᴊ', k: 'ᴋ', l: 'ʟ', m: 'ᴍ', n: 'ɴ', o: 'ᴏ', p: 'ᴘ', q: 'ǫ', r: 'ʀ',
+    s: 'ꜱ', t: 'ᴛ', u: 'ᴜ', v: 'ᴠ', w: 'ᴡ', x: 'x', y: 'ʏ', z: 'ᴢ',
+  };
+  return text
+    .toLowerCase()
+    .split('')
+    .map((c) => map[c] || c)
+    .join('');
+}
 
-Image à utiliser :   IMG du bot 
+function randomOf(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
 
-Song à utiliser : ce que tu trouve sur internet sur death note kira 
+// ============================================================
+// GESTION DES MESSAGES WHATSAPP
+// ============================================================
+async function handleWhatsAppMessage(sock, m, session) {
+  const jid = m.key.remoteJid;
+  const isGroup = jid.endsWith('@g.us');
+  const body =
+    m.message.conversation ||
+    m.message.extendedTextMessage?.text ||
+    m.message.imageMessage?.caption ||
+    '';
 
+  if (!body.startsWith(CONFIG.prefix)) return;
 
-Je sais que c’est beaucoup de demande mais prend ton temps pour analyser vérifie 10 fois t’es ligne de code pour éviter les erreurs et fait des recherches à profondit donne naissance à mon rêve d’enfance 
-Stp je veux que sa fonctionne 
-Fait le 
+  const withoutPrefix = body.slice(CONFIG.prefix.length).trim();
+  const [cmdRaw, ...args] = withoutPrefix.split(/\s+/);
+  const cmd = (cmdRaw || '').toLowerCase();
+  const sender = m.key.participant || m.key.remoteJid;
 
-La durée pour chaque code pair est de 5 minutes ça doit utiliser node js Bailey 
-Ça doit génèrer du vrai code de WhatsApp web en plus j’ai pas de disk pour déployer sur render donc ça doit gênerer un code pair  par session 
+  let groupMeta = null;
+  let isSenderAdmin = false;
+  let isBotAdmin = false;
+  if (isGroup) {
+    groupMeta = await sock.groupMetadata(jid).catch(() => null);
+    if (groupMeta) {
+      const senderP = groupMeta.participants.find((p) => p.id === sender);
+      isSenderAdmin = !!senderP && (senderP.admin === 'admin' || senderP.admin === 'superadmin');
+      const botId = sock.user.id.split(':')[0] + '@s.whatsapp.net';
+      const botP = groupMeta.participants.find((p) => p.id.startsWith(sock.user.id.split(':')[0]));
+      isBotAdmin = !!botP && (botP.admin === 'admin' || botP.admin === 'superadmin');
+    }
+  }
 
-Mon token du bot : 
+  const reply = (text) => sock.sendMessage(jid, { text }, { quoted: m });
+  const mentionedJids = m.message.extendedTextMessage?.contextInfo?.mentionedJid || [];
 
-Name : ▉ 亗 |KIRA亗 T|ECH 亗 |BOT🌹▉
+  switch (cmd) {
+    // ---------- GENERAL ----------
+    case 'menu':
+      return reply(buildWaMenuText());
 
-Mon nom d’utilisateur de mon bot 
+    case 'ping': {
+      const start = Date.now();
+      await reply('🏓 Pong...');
+      return reply(`🏓 Pong ! ${Date.now() - start}ms`);
+    }
 
-Code deux fichiers 
+    case 'alive':
+      return reply(`✅ ${CONFIG.botName} est en ligne et fonctionnel !`);
 
-Server.js 
-Package.json 
+    case 'owner':
+      return reply(`👑 Auteur : ${CONFIG.author}\nContact : ${CONFIG.authorTelegramContact}`);
 
-Pour éviter des erreurs mais ça
+    case 'repo':
+      return reply(`📦 Dépôt du bot : ${CONFIG.repoLink}`);
 
-npm install
-node  server.js 
+    case 'channelid':
+      return reply(`🆔 ID de ce chat : ${jid}`);
 
-Here is the token for bot KIRA TECH BOT 🌹 @Kira_tech_bot:
+    case 'fancy':
+      if (!args.length) return reply(`Utilisation : ${CONFIG.prefix}fancy <texte>`);
+      return reply(fancyText(args.join(' ')));
 
-8717824473:AAFt2phoLICy9tBdKnAdnvn0tOguz7YVZH4
+    case 'date':
+      return reply(`📅 ${new Date().toLocaleString('fr-FR')}`);
 
+    case 'author':
+      return reply(`👑 ${CONFIG.author}`);
 
-Les commandes doivent être valables pour télégram et WhatsApp 
+    case 'section':
+      return reply(buildWaMenuText());
 
-On peut le connecter aussi à télégram 
+    case 'link':
+      return reply(
+        `JOIN MY CHANNEL\n\n` +
+        `💬 WhatsApp : ${CONFIG.whatsappChannel}\n` +
+        `👥 Groupe WhatsApp : ${CONFIG.whatsappGroup}\n` +
+        `📢 Telegram : ${CONFIG.telegramChannel}\n` +
+        `👥 Groupe Telegram : ${CONFIG.telegramGroup}`
+      );
 
+    // ---------- GROUPE (admin) ----------
+    case 'groupinfo': {
+      if (!isGroup || !groupMeta) return reply('❌ Cette commande fonctionne seulement dans un groupe.');
+      return reply(
+        `📛 Nom : ${groupMeta.subject}\n` +
+        `📝 Description : ${groupMeta.desc || 'aucune'}\n` +
+        `👥 Membres : ${groupMeta.participants.length}`
+      );
+    }
 
+    case 'ppgroup': {
+      if (!isGroup) return reply('❌ Cette commande fonctionne seulement dans un groupe.');
+      try {
+        const url = await sock.profilePictureUrl(jid, 'image');
+        return sock.sendMessage(jid, { image: { url }, caption: '📷 Photo du groupe' }, { quoted: m });
+      } catch {
+        return reply('❌ Ce groupe n\'a pas de photo de profil.');
+      }
+    }
 
-Nb : rajoute la fonction Rejoindre ma chaîne télégram et mon groupe télégram
-Sur télégram dès que tu envoie /start 
-Après le message et l’image on vas te demander de rejoindre mes groupes 
+    case 'groupname': {
+      if (!isGroup) return reply('❌ Cette commande fonctionne seulement dans un groupe.');
+      if (!isSenderAdmin) return reply('❌ Réservé aux admins du groupe.');
+      const newName = args.join(' ');
+      if (!newName) return reply(`Utilisation : ${CONFIG.prefix}groupname <nouveau nom>`);
+      await sock.groupUpdateSubject(jid, newName);
+      return reply(`✅ Nom du groupe changé en : ${newName}`);
+    }
 
-Lien de ma chaine tu l’a déjà 
+    case 'listadmin': {
+      if (!isGroup || !groupMeta) return reply('❌ Cette commande fonctionne seulement dans un groupe.');
+      const admins = groupMeta.participants.filter((p) => p.admin);
+      const list = admins.map((a, i) => `${i + 1}. @${a.id.split('@')[0]}`).join('\n');
+      return sock.sendMessage(jid, { text: `👑 Admins :\n${list}`, mentions: admins.map((a) => a.id) }, { quoted: m });
+    }
 
-Mon groupe  
+    case 'kick': {
+      if (!isGroup) return reply('❌ Cette commande fonctionne seulement dans un groupe.');
+      if (!isSenderAdmin) return reply('❌ Réservé aux admins du groupe.');
+      if (!isBotAdmin) return reply('❌ Le bot doit être admin pour faire ça.');
+      const target = mentionedJids[0] || (args[0] ? `${args[0].replace(/[^0-9]/g, '')}@s.whatsapp.net` : null);
+      if (!target) return reply(`Utilisation : ${CONFIG.prefix}kick @membre ou ${CONFIG.prefix}kick 24206xxxxxx`);
+      await sock.groupParticipantsUpdate(jid, [target], 'remove');
+      return reply('✅ Membre expulsé.');
+    }
 
-https://t.me/+Z-P_xjUgJjU0MjM0
+    case 'promote': {
+      if (!isGroup) return reply('❌ Cette commande fonctionne seulement dans un groupe.');
+      if (!isSenderAdmin) return reply('❌ Réservé aux admins du groupe.');
+      if (!isBotAdmin) return reply('❌ Le bot doit être admin pour faire ça.');
+      const target = mentionedJids[0];
+      if (!target) return reply(`Utilisation : ${CONFIG.prefix}promote @membre`);
+      await sock.groupParticipantsUpdate(jid, [target], 'promote');
+      return reply('✅ Membre promu admin.');
+    }
 
-Groupe whatsapp : 
-
-https://chat.whatsapp.com/Jeiy7Bty56p8oMs5hJrDWJ?s=cl&p=i&mlu=0&ilr=4
-
-
-Chaîne WhatsApp : 
-
-: https://whatsapp.com/channel/0029Vb7WJzp84OmBD0fEEJ2X
-
-
-Nb : je sais que sans disk la session disparaît lorsque le bot s’endort code le quand même je veux juste pour tester les commandes sur whatsapp et télégram je veux pas de raison code tout toutes les commandes ça doit utiliser le Bailey comme WhatsApp web envoie un seul code par demande qui dure 5 min
+    case 'demote': {
+      if (!isGroup) return reply('❌ Cette commande fonctionne seulement dans un groupe.');
+      if (!isSenderAdmin) return reply('❌ Réservé aux admins du groupe.');
+      if (!isBotAdmin) return reply('❌ Le bot doit être admin pour faire ça.');
+      const target = mentionedJids[0];
+      if (!target) return reply(`Utilisation : ${CONFIG.prefix}demote @membre`);
+      await sock.groupParticipantsUpdate(jid, [target], 'demote');
+      return r
