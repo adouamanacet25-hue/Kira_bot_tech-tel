@@ -1,15 +1,20 @@
 {
   "name": "kira-tech-bot",
   "version": "1.0.0",
-  "description": "Bot Telegram KIRA TECH - Toutes commandes",
+  "description": "Bot Telegram qui connecte et pilote un bot WhatsApp (Baileys) via pairing code",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {
-    "telegraf": "^4.16.3"
-  },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.3.2",
+    "axios": "^1.7.2",
+    "qrcode": "^1.5.4"
   }
 }
